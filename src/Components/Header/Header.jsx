@@ -7,7 +7,7 @@ const Header = () => {
   const [open, setOpen] = useState(false);
 
   return (
-    <div className="bg-pink-900 py-4 px-12 text-white top flex justify-between items-center">
+    <nav className="bg-pink-900 py-4 px-12 text-white sticky top-0 flex justify-between items-center z-50">
       <div className=" md:flex justify-between items-center container mx-auto">
         <Link to="/">
           <h1 className="text-3xl  ">ForEver</h1>
@@ -46,7 +46,7 @@ const Header = () => {
           )}
         </span>
       </div>
-    </div>
+    </nav>
   );
 };
 

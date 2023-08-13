@@ -8,6 +8,8 @@ import AllRings from "./Components/AllRings/AllRings.jsx";
 import Login from "./Components/Login/Login.jsx";
 import Orders from "./Components/Orders/Orders.jsx";
 import NotFound from "./Components/AllRings/NotFound/NotFound.jsx";
+import CartProductsLoaders from "./Components/Loaders/Loaders.jsx";
+import Checkout from "./Components/Checkout/Checkout.jsx";
 
 const router = createBrowserRouter([
   {
@@ -22,6 +24,11 @@ const router = createBrowserRouter([
       {
         path: "/orders",
         element: <Orders></Orders>,
+        loader: CartProductsLoaders,
+      },
+      {
+        path: "/checkout",
+        element: <Checkout></Checkout>,
       },
       {
         path: "/login",

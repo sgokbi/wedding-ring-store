@@ -3,7 +3,8 @@
     "id": "001",
     "name": "Classic Gold Wedding Ring",
     "price": 599.99,
-    "quantity": 25,
+    "quantity": 0,
+    "shipping": 36,
     "image": "https://example.com/images/classic_gold_wedding_ring.jpg"
   },
   {
@@ -11,76 +12,87 @@
     "name": "Diamond Solitaire Wedding Ring",
     "price": 1499.99,
     "quantity": 10,
+    "shipping": 29,
     "image": "https://example.com/images/diamond_solitaire_wedding_ring.jpg"
   },
   {
     "id": "003",
     "name": "Vintage Rose Gold Wedding Ring",
     "price": 799.99,
-    "quantity": 30,
+    "quantity": 0,
+    "shipping": 48,
     "image": "https://example.com/images/vintage_rose_gold_wedding_ring.jpg"
   },
   {
     "id": "004",
     "name": "Platinum Milgrain Wedding Ring",
     "price": 1299.99,
-    "quantity": 15,
+    "quantity": 0,
+    "shipping": 46,
     "image": "https://example.com/images/platinum_milgrain_wedding_ring.jpg"
   },
   {
     "id": "005",
     "name": "Simple White Gold Wedding Band",
     "price": 449.99,
-    "quantity": 20,
+    "quantity": 0,
+    "shipping": 50,
     "image": "https://example.com/images/simple_white_gold_wedding_band.jpg"
   },
   {
     "id": "006",
     "name": "Tungsten Carbide Wedding Ring",
     "price": 199.99,
-    "quantity": 40,
+    "quantity": 0,
+    "shipping": 15,
     "image": "https://example.com/images/tungsten_carbide_wedding_ring.jpg"
   },
   {
     "id": "007",
     "name": "Sapphire and Diamond Wedding Ring",
     "price": 999.99,
-    "quantity": 12,
+    "quantity": 0,
+    "shipping": 14,
     "image": "https://example.com/images/sapphire_diamond_wedding_ring.jpg"
   },
   {
     "id": "008",
     "name": "Elegant Marquise Wedding Ring",
     "price": 799.99,
-    "quantity": 18,
+    "quantity": 0,
+    "shipping": 49,
     "image": "https://example.com/images/elegant_marquise_wedding_ring.jpg"
   },
   {
     "id": "009",
     "name": "Rose Gold Eternity Band",
     "price": 699.99,
-    "quantity": 22,
+    "quantity": 0,
+    "shipping": 12,
     "image": "https://example.com/images/rose_gold_eternity_band.jpg"
   },
   {
     "id": "010",
     "name": "Channel Set Diamond Wedding Ring",
     "price": 1199.99,
-    "quantity": 9,
+    "quantity": 0,
+    "shipping": 20,
     "image": "https://example.com/images/channel_set_diamond_wedding_ring.jpg"
   },
   {
     "id": "011",
     "name": "Yellow Gold Halo Wedding Ring",
     "price": 1349.99,
-    "quantity": 14,
+    "quantity": 0,
+    "shipping": 32,
     "image": "https://example.com/images/yellow_gold_halo_wedding_ring.jpg"
   },
   {
     "id": "012",
     "name": "Vintage Inspired Filigree Wedding Ring",
     "price": 899.99,
-    "quantity": 16,
+    "quantity": 0,
+    "shipping": 1,
     "image": "https://example.com/images/vintage_inspired_filigree_wedding_ring.jpg"
   }
 ]
